@@ -43,8 +43,30 @@
 
 # 5.  Перший випадок. 
 # Написати програму, яка буде зчитувати числа поки не зустріне від’ємне число. При появі від’ємного числа програма зупиняється (якщо зустрічається 0 програма теж зупиняється).
-num=input(int('Enter a value'))
-while num>0:
-    print('Enter one more value')
-    num=input(int('Enter a value'))
-else: print('There was negative number meet')
+# num=input(int('Enter a value'))
+# while num>0:
+#     print('Enter one more value')
+#     num=input(int('Enter a value'))
+# else: print('There was negative number meet')
+
+# 6.  Другий випадок. 
+# На початку на вхід подається кількість елементів послідовності, а потім самі елементи. 
+# При появі від’ємного числа програма зупиняється (якщо зустрічається 0 програма теж зупиняється).
+
+# listofelements = int(input("Please enter quantity of numbers:"))
+# i =0
+# while i < listofelements:
+#     i+=1
+#     if int(input("Please enter your number:\n"))>0:
+#         pass
+#     else:
+#         break
+
+# 7.  Знайти прості числа від 10 до 30, а всі решта чисел представити у вигляді добутку чисел 
+#(наприклад 10 equals 2 * 5
+
+TO DO
+
+# 8.  Відсортувати слова в реченні в порядку їх довжини (використати List Comprehensions)
+
+TO DO
